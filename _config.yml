@@ -17,8 +17,8 @@
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/dark.css"
 locale: en-US
-title: "LGBTQIA+ Stories on Royal Road"
-description: "A collection of LGBTQIA+ Friendly Stories Published on Royal Road. <br>This little tool only sort and search by gender and sexual orientation terms.<br>Post your story on RR Forum LGBTQIA+ Thread at Recommendation section to get listed!"
+title: "Shomin's Page"
+description: "Shomin is an independent author/artist trying to write stories, and make some digital manga style art with somewhat controversial themes."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: 
@@ -108,6 +108,6 @@ footer_links:
   - title: GitHub
     url: https://github.com/TokaiShomin
     icon: fab fa-github-square
-  - title: Facebook
-    url: https://www.facebook.com/LGBTQIAonRR
-    icon: fab fa-facebook-square
+  - title: RoyalRoad
+    url: https://www.royalroad.com/profile/267147
+    icon: fab fa-book
