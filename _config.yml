@@ -18,10 +18,10 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/dark.css"
 locale: en-US
 title: "Shomin's Page"
-description: "Shomin is an independent author/artist trying to write stories, and make some digital manga style art with somewhat controversial themes."
+description: "Shomin is an independent author/artist trying to write stories, <br>and make some digital manga style art with somewhat controversial themes.<br>If you wish to support her works, do click on SUPPORT ME tab above!<br>Thanks for visiting!"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: 
+logo: "Arete2.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -51,7 +51,7 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 2
 paginate_path: "./page:num/"
 
 # Search
@@ -110,4 +110,4 @@ footer_links:
     icon: fab fa-github-square
   - title: RoyalRoad
     url: https://www.royalroad.com/profile/267147
-    icon: fa-solid fa-books
+    icon: fas fa-book
