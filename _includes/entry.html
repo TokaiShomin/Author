@@ -36,7 +36,36 @@
         </div>
         </a> <a href="{{ entry.link }}" rel="bookmark"></a>
       {% else %}
-        <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a> 
+        <a class="u-bookmark-of" href="{{ entry.url | relative_url }}">
+          {% if entry.image.path %}
+            {% assign entry_image = entry.image.path %}
+            {% unless entry_image contains '://' %}
+              {% assign entry_image = entry_image | relative_url %}
+            {% endunless %}
+            {% assign entry_image = entry_image | escape %}
+
+            <img class="entry-imagex u-photo" src="{{ entry_image }}" alt="" onerror="this.onerror=null; this.src='https://royalroadlgbtqia.github.io/list/images/nofound.png'"></a>
+            
+
+          {% endif %}
+          <div class="entry-excerpt p-summary" maxlength="3">
+          {{ title }} <br>
+          <time class="entry-date dt-published" datetime="{{ entry.date | date_to_xmlschema }}">
+            Last update:&nbsp; {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
+            {{ entry.date | date: date_format }}
+          </time>
+          {% unless page.show_excerpts == false %}
+            
+            
+            
+          {% endunless %}
+        </div>
+        <a href="{{ entry.url | relative_url }}" rel="bookmark"></a>
+
+
+
+
+
       {% endif %}
     </h3>
   </header>

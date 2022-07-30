@@ -51,6 +51,18 @@
   height: 150px;
   margin-bottom: 0.5rem;
   display: block;
+  object-fit: cover;
+}
+
+.entry-imagex {
+  -webkit-box-ordinal-group: 0;
+  -ms-flex-order: -1;
+  order: -1;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 0.5rem;
+  display: block;
+  object-fit: cover;
 }
 
 .entry-meta {

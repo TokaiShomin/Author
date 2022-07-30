@@ -1,6 +1,6 @@
 ---
-title: Search
+title: ♡ SUPPORT ME ♡
 layout: search
-permalink: /search/
+permalink: /support/
 sitemap: false
 ---
