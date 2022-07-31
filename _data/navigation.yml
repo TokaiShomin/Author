@@ -2,14 +2,14 @@
 
 - title: Home
   url: /
-#- title: Posts
-#  url: /posts/
 #- title: Art
 #  url: /categories/
 #- title: Art
 #  url: /tags/
 - title: Art
   url: /recipes/
+- title: Fans Corner
+  url: /secret/
 - title: ♡SUPPORT ME♡
   url: /support/
 # - title: External Page
