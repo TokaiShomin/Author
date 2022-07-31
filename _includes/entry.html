@@ -39,8 +39,8 @@
         <a href="{{ entry.url | relative_url }}" rel="bookmark"></a>
 
       {% else %}
-        <!--Here is how to see the Art list-->
-        <a class="u-bookmark-of" href="{{ entry.link }}">
+        <!--Here is how to see the Novel list-->
+        <a class="u-bookmark-of" href="{{ entry.link }}" target="_blank">
           {% if entry.image.path %}
             {% assign entry_image = entry.image.path %}
             {% unless entry_image contains '://' %}
