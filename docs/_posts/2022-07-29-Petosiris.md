@@ -2,7 +2,8 @@
 title: "Petosiris"
 layout: post
 image:
-  path: https://www.royalroadcdn.com/public/covers-large/tales-of-teleios-aadax4webre.jpg
-permalink: /posts/Petosiris/
+  path: https://cdn.discordapp.com/attachments/926115414746988557/1003168725027004537/cover_petosiris_trio2.png
+link: /posts/petosiris/
+permalink: /posts/petosiris/
 ---
-Description about the story
+This story is on Hiatus!
