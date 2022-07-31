@@ -87,6 +87,15 @@
 }
 
 .entry-excerpt a,
+.u-bookmark-ofx {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  display: flex;
+}
+
+.entry-excerpt a,
 .u-bookmark-of img {
   margin-right: 10px;
   display: block;
