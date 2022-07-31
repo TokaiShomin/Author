@@ -1,5 +1,5 @@
 ---
-title: ♡ SUPPORT ME ♡
+title: SUPPORT
 layout: search
 permalink: /support/
 sitemap: false
