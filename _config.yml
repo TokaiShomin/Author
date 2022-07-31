@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/dark.css"
 locale: en-US
 title: "Shomin's Page"
-description: "Shomin is an independent author/artist trying to write stories, <br>and make some digital manga style art with somewhat controversial themes.<br>If you wish to support her works, do click on SUPPORT ME tab above!<br>Thanks for visiting!"
+description: "Shomin is an independent author/artist trying to write stories, <br>and make some digital manga style art with somewhat controversial themes.<br>Thanks for visiting!"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "Arete2.png"
@@ -53,7 +53,7 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 2
+paginate: 4
 paginate_path: "./page:num/"
 
 # Search
