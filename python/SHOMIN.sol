@@ -138,3 +138,4 @@ contract AuthorNFT {
         deployWallet = payable(address(msg.sender));
     }
 }
+//https://anarkrypto.github.io/upload-files-to-ipfs-from-browser-panel/public/
