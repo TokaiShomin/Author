@@ -113,3 +113,6 @@ footer_links:
   - title: RoyalRoad
     url: https://www.royalroad.com/profile/267147
     icon: fas fa-book
+  - title: Discord
+    url: https://discord.gg/kGF7BVgrU6
+    icon: fab fa-discord
