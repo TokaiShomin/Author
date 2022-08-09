@@ -1,4 +1,49 @@
 <!DOCTYPE html>
-<html>
-    {{ content }}
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
+  {% include head-access.html %}
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
+    {% include skip-links.html %}
+    {% include navigation.html %}
+
+
+    <main id="main" class="main-content" aria-label="Content">
+        <article>
+          <!--{% include page-image.html %}-->
+          <div class="page-wrapper">
+            <header class="page-header">
+              {% if page.id %}
+                {% assign title = page.title | markdownify | strip_html %}
+              {% else %}
+                {% assign title = page.title %}
+              {% endif %}
+              {% if page.link %}
+                <h1 id="page-title" class="page-title"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+              {% else %}
+                <h1 id="page-title" class="page-title">{{ title }}</h1>
+              {% endif %}
+            </header>
+            <div class="page-content">
+              <p style="text-align: justify;">
+      
+      
+      
+              {{ content }}
+      
+      
+              
+            </p>
+      
+              {% if page.share %}
+                {% include social-share.html %}
+              {% endif %}
+            </div>
+          </div>
+        </article>
+      </main>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+
 </html>
