@@ -23,7 +23,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/Arete2.png"
 site_icon: "/images/favicon.png"
-site_shareimg: "https://raw.githubusercontent.com/TokaiShomin/Author/gh-pages/images/banner_share.jpeg"
+site_shareimg: "https://raw.githubusercontent.com/Asvoria/Author/gh-pages/images/banner_share.jpeg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -108,7 +108,7 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
   - title: GitHub
-    url: https://github.com/TokaiShomin
+    url: https://github.com/Asvoria
     icon: fab fa-github-square
   - title: RoyalRoad
     url: https://www.royalroad.com/profile/267147
