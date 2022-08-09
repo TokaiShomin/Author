@@ -1,7 +1,7 @@
 ---
 title: "The Birth of Pryne"
 layout: post
-permalink: /posts/BirthPryne/
+permalink: /art/BirthPryne/
 show_excerpts: false
 image:
   path: https://cdn.discordapp.com/attachments/926115414746988557/1000071211491016856/aphroditex.jpg

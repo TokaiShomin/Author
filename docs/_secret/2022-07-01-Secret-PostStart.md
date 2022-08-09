@@ -1,7 +1,6 @@
 ---
 title: "SECRET CORNER"
 layout: page
-permalink: /secret/
 show_excerpts: false
 image:
   path: https://raw.githubusercontent.com/Asvoria/Author/gh-pages/images/memberCardS.png

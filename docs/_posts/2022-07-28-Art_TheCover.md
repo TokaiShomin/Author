@@ -1,7 +1,7 @@
 ---
 title: "Cover: Arete of Syracuse"
 layout: post
-permalink: /posts/CoverArete/
+permalink: /art/CoverArete/
 show_excerpts: false
 image:
   path: https://cdn.discordapp.com/attachments/885128360634773525/924182221227720714/Covnew2upld.jpg
