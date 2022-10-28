@@ -1,5 +1,5 @@
 # Author
-Shomin's Author Site
+Asvoria K.'s Author Site
 
 # Switch to branch
 git checkout -b gh-pages

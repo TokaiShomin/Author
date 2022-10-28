@@ -22,7 +22,7 @@ contract SSCCL is ERC721URIStorage {
     Counters.Counter private _tokenIds;
     address payable private deployWallet;
 
-    constructor() ERC721("Shomin's Secret Corner", "SSC-TE\u039BEIO\u03A3") {
+    constructor() ERC721("Asvoria K.'s Secret Corner", "SSC-TE\u039BEIO\u03A3") {
         deployWallet = payable(address(msg.sender));
     }
 
