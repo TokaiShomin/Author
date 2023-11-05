@@ -12,6 +12,10 @@
     {% endcomment %}
     {% include head-seo.html %}
   {% else %}
+    <meta property="og:title" content="Asvoria K. Author's Page" />
+    <meta property="og:image" content="https://asvoria.github.io/Author/images/banner_share.jpeg" />
+    <meta property="og:url" content="https://asvoria.github.io/Author/" />
+    <meta property="og:description" content="The independent author of Teleios: A Greco-Roman alt historical fantasy..." />
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
