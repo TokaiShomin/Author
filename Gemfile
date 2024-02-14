@@ -7,9 +7,11 @@ source "https://rubygems.org"
 
 gem "webrick", "~> 1.7"
 
-gem "jekyll", "~> 3.0"
+gem "jekyll", "~> 4.0"
 
 gem "jekyll-seo-tag"
+
+gem "github-pages", "=228"
 
 
 # If you have any plugins, put them here!
