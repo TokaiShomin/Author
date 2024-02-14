@@ -11,8 +11,6 @@ gem "jekyll", "~> 4.0"
 
 gem "jekyll-seo-tag"
 
-gem "github-pages", "=228"
-
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
