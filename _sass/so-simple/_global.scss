@@ -1,6 +1,33 @@
 /* ==========================================================================
    Site-wide
    ========================================================================== */
+.books-pub {
+  text-align: center;
+  width: 200px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0.5rem;
+  box-shadow: 1px 2px 12px rgba(0, 0, 0, 0.8);
+}
+
+.books-pub-tx {
+  margin-bottom: 1em;
+  font-family: $description-font-family;
+  @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
+  font-weight: 320;
+  font-style: italic;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
+}
+
+.books-pub-li {
+  margin-bottom: 1em;
+  font-family: $description-font-family;
+  font-size: larger;
+  font-weight: 320;
+  font-style: italic;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
+}
 
 .skip-links {
   ul {
@@ -76,6 +103,7 @@
   padding: 0;
   @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
   font-weight: 700;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
 
   a {
     text-decoration: none;
@@ -88,6 +116,7 @@
   @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
   font-weight: 400;
   font-style: italic;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
 }
 
 .site-logo {

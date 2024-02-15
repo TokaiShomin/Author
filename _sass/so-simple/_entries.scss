@@ -19,6 +19,7 @@
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
 }
 
 .entry-title {
@@ -52,6 +53,7 @@
   margin-bottom: 0.5rem;
   display: block;
   object-fit: cover;
+  box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.7);
 }
 
 .entry-imagex {
@@ -82,7 +84,7 @@
 .entry-excerpt a,
 .u-bookmark-of {
   position: relative;
-  z-index: 10;
+  z-index: 110;
   display: flex;
 }
 
@@ -93,6 +95,7 @@
   justify-content: center;
   z-index: 10;
   display: flex;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
 }
 
 .entry-excerpt a,
@@ -146,7 +149,20 @@
       font-weight: lighter !important;
       overflow: hidden;
       text-overflow: ellipsis;
-      max-height: 8ch;
+      max-height: 10ch;
+      text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
+    }
+  }
+  .entry-excerpt:hover {
+    /* normalize font sizes */
+    > * {
+      font-size: 1rem;
+      font-weight: lighter !important;
+      overflow: visible;
+      text-overflow: ellipsis;
+      max-height: 24ch;
+      text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
+      background-color: rgba(0, 0, 0, 0.2);
     }
   }
 
@@ -199,6 +215,7 @@
     -webkit-box-ordinal-group: 4;
     -ms-flex-order: 3;
     order: 3;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
 
     /* remove space after last child element */
     > *:last-child {
@@ -214,6 +231,7 @@
       overflow: hidden;
       text-overflow: ellipsis;
       max-height: 8ch;
+      text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
     }
   }
 
