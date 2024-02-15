@@ -21,5 +21,10 @@ Dive into a world that draws inspiration from the brutal ancient Greco-Roman tim
 </div>
 <div class="books-pub-tx">
 Stay tuned for more availability! <br>
-Also, checkout at your nearby digital libraries as well!
+Also, checkout at your nearby digital libraries as well!<br>
+<br>
+Don't forget to post your review! Love ya!
+</div>
+<div class="books-pub-li">
+<a href="https://www.goodreads.com/book/show/207702059-teleios" target="_blank">GOODREADS</a><br>
 </div>
