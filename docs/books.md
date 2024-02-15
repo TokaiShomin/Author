@@ -6,7 +6,7 @@ show_excerpts: true
 entries_layout: list
 ---
 <div class="books-pub">
-<img src="Author/images/Teleios-Generic.jpg">
+<img src="images/Teleios-Generic.jpg">
 </div>
 <div class="books-pub-tx">
 Dive into a world that draws inspiration from the brutal ancient Greco-Roman times with this adventurous historical fantasy fiction. This story delves into the concept of eugenics, womanhood, and posing challenging questions, featuring strong LGBT+ characters. Now available for pre-order!
