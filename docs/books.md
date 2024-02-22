@@ -12,7 +12,7 @@ entries_layout: list
 Dive into a world that draws inspiration from the brutal ancient Greco-Roman times with this adventurous historical fantasy fiction. This story delves into the concept of eugenics, womanhood, and posing challenging questions, featuring strong LGBT+ characters. Now available for pre-order!
 </div>
 <div class="books-pub-li">
-<a href="https://www.kobo.com/my/en/ebook/teleios" target="_blank">KOBO</a><br>
+<a href="https://www.kobo.com/ww/en/ebook/teleios" target="_blank">KOBO</a><br>
 <a href="https://www.barnesandnoble.com/w/teleios-asvoria-k/1144827967?ean=9789811889530" target="_blank">BARNES & NOBLE</a><br>
 <a href="https://www.amazon.com/dp/B0CV5GL6YC?tag=publishdriv01-20&linkCode=osi&th=1&psc=1" target="_blank">AMAZON</a><br>
 <a href="https://books.apple.com/us/book/teleios/id6477532119" target="_blank">APPLE BOOKS</a><br>
