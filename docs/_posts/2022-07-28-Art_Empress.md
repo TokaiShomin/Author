@@ -10,3 +10,7 @@ tag:
 ---
 The Empress Sporus inspired by the Goddess Hera...
 ![](https://asvoria.github.io/Author/images/Spo2x.png)
+
+![](https://asvoria.github.io/Author/images/ft.png)
+
+![](https://asvoria.github.io/Author/images/ScreenshotEmpress.png)
