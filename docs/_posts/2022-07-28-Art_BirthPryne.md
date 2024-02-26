@@ -4,9 +4,9 @@ layout: post
 permalink: /art/BirthPryne/
 show_excerpts: false
 image:
-  path: https://cdn.discordapp.com/attachments/926115414746988557/1000071211491016856/aphroditex.jpg
+  path: https://asvoria.github.io/Author/images/aphroditex.jpg
 tag:
   - Tales of Teleios
 ---
 A parody of Botticelli's Birth of Venus...
-![](https://cdn.discordapp.com/attachments/926115414746988557/1000071211491016856/aphroditex.jpg)
+![](https://asvoria.github.io/Author/images/aphroditex.jpg)
