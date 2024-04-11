@@ -1,12 +1,12 @@
 ---
 title: "Sky is the Limit"
 layout: post
-permalink: /art/SkyLimit/
+permalink: /art/Athena/
 show_excerpts: false
 image:
   path: https://asvoria.github.io/Author/images/athenapen.jpeg
 tag:
   - Tales of Teleios
 ---
-Sky is the Limit...
+Athena, ink on card...
 ![](https://asvoria.github.io/Author/images/athenapen.jpeg)
