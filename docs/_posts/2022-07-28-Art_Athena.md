@@ -1,5 +1,5 @@
 ---
-title: "Sky is the Limit"
+title: "Athena, ink on card."
 layout: post
 permalink: /art/Athena/
 show_excerpts: false
