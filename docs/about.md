@@ -1,5 +1,5 @@
 ---
-title: About the Asvoria K.
+title: About Asvoria K.
 layout: categories
 permalink: /about/
 show_excerpts: true
