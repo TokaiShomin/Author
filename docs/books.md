@@ -9,13 +9,13 @@ entries_layout: list
 <img src="https://asvoria.github.io/Author/images/Teleios-Generic.jpg">
 </div>
 <div class="books-pub-tx">
-Set against the backdrop of the Greco-Roman world in the Julio-Claudian dynasty, the story of Teleios weaves together elements of magic, mythical creatures, and a cosmic mystery, with an altered fate of the notable historical characters. It’s a genre that not only entertains but also encourages reflection on the fragility of history and the profound impact of individual choices on the course of events.
+<p>Set against the backdrop of the Greco-Roman world in the Julio-Claudian dynasty, the story of Teleios weaves together elements of magic, mythical creatures, and a cosmic mystery, with an altered fate of the notable historical characters. It’s a genre that not only entertains but also encourages reflection on the fragility of history and the profound impact of individual choices on the course of events.</p>
 
-The author reimagines a historical period of transition from Greek dominance in the Eastern Mediterranean to Roman hegemony over the broader Mediterranean world, transporting readers to a place where the familiar contours of the empire reshaped by the existence of fictitious cities — Oraiapolis and Kataramenos.
+<p>The author reimagines a historical period of transition from Greek dominance in the Eastern Mediterranean to Roman hegemony over the broader Mediterranean world, transporting readers to a place where the familiar contours of the empire reshaped by the existence of fictitious cities — Oraiapolis and Kataramenos.</p>
 
-Through use of symbolism, allegories, and inventive storytelling, the author crafts narratives that are both thought-provoking, and stretching the boundaries of possibility. The story challenges readers to contemplate not only the “what ifs” of history but also the significance of the cosmic mystery of ‘Divine Wisdom’ within the framework of the past and present.
+<p>Through use of symbolism, allegories, and inventive storytelling, the author crafts narratives that are both thought-provoking, and stretching the boundaries of possibility. The story challenges readers to contemplate not only the “what ifs” of history but also the significance of the cosmic mystery of ‘Divine Wisdom’ within the framework of the past and present.</p>
 
-All in all, this ambitious work of fiction attempts to navigate the complexities of various discussions and debates which have sparked within the modern society, such as eugenics and trans-humanism. Teleios is truly a must-read book for anyone seeking to confront the darkest depths of gender, human nature, and society’s most pressing issues.
+<p>All in all, this ambitious work of fiction attempts to navigate the complexities of various discussions and debates which have sparked within the modern society, such as eugenics and trans-humanism. Teleios is truly a must-read book for anyone seeking to confront the darkest depths of gender, human nature, and society’s most pressing issues.</p>
 </div>
 <div class="books-pub-li">
 <a href="https://www.kobo.com/ww/en/ebook/teleios" target="_blank">KOBO</a><br>
