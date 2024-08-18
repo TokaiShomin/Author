@@ -5,9 +5,7 @@ permalink: /books/
 show_excerpts: true
 entries_layout: list
 ---
-<div class="books-pub">
 <img src="https://asvoria.github.io/Author/images/0BookChatPoster1.jpg">
-</div>
 <div class="books-pub-li">
 <p>Check out the author's event at Kuala Lumpur Malaysia on 24 August 2024! Special promotional price for the actual paperback books reserved at limited copies! See you there!</p>
 </div>
