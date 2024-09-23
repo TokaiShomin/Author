@@ -110,9 +110,9 @@ footer_links:
   - title: GitHub
     url: https://github.com/Asvoria
     icon: fab fa-github-square
-  - title: RoyalRoad
-    url: https://www.royalroad.com/profile/267147
-    icon: fas fa-book
+  - title: Youtube Channel
+    url: https://www.youtube.com/@badlywritenbyhuman
+    icon: fab fa-youtube
   - title: Discord
     url: https://discord.gg/kGF7BVgrU6
     icon: fab fa-discord
