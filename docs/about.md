@@ -11,8 +11,6 @@ Asvoria K. is an ordinary human from Malaysia. Her family stayed in a cramped, r
 
 Born with a modest talent for drawing, she won multiple prizes in art competitions since her very young age. That includes a public competition for young children and in her primary school. One day, to her delight, she won first prize in an art competition and received a brand new Lego toy set. Happily, she brought the set back to her home. However, her happiness quickly turned to disbelief when the landlord accused her of stealing that toy from their son. Afterall, Lego was a luxury her parents couldn't afford. 
 
-<p align="center" ><img src="https://asvoria.github.io/Author/images/girl.jpg" width="80%"></p>
-
 Fearing that she might fall into the path of a thief, worry filled her parents. “Children who learn piano will not become bad” people told her mom. And therefore, her parents toiled tirelessly to afford her piano lessons. Yet, she didn't endure. Once the complimentary lessons concluded, the fees surged to an unattainable level for her parents. They direly needed somebody to look after their daughter while they were working in the Kalamunsing building. Thus, they entrusted their daughter to the drawing instructor, who generously charged only RM10 per month for her to simply sit in the class.
 
 <p align="center" ><img src="https://asvoria.github.io/Author/images/artline.jpg" width="80%"></p>
